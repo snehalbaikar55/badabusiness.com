@@ -34600,7 +34600,7 @@ blockquote:after {
         width: 82%
     }
     .member-image img {
-        width: 100%;
+        width: 50%;
         max-width: 300px;
     }
     .show {

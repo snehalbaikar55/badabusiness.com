@@ -526,19 +526,19 @@
 
             </div>
         </section>
-        <section class="about-area ptb-100 ">
+        <section class="about-area ptb-70 ">
             <div class="container ">
                 <h2 class="text-center pb-5 line">ABOUT BADA BUSINESS</h2>
                 <div class="row align-items-center ">
-                    <div class="col-lg-6 col-md-12 ">
-                        <div class="about-image">
-                            <img src="img/about_event.jpg" width="400" height="400" alt="image">
+                    <div class="col-lg-6 col-md-6 ">
+                        <div class="about-image mb-4">
+                            <img src="img/about_event.jpg" width="" height="" alt="image" class="img-fluid">
                             <!-- <div class="video-btn"><i class="	fas fa-caret-right" style=""></i>
                             </div> -->
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 ">
-                        <div class="about-content">
+                    <div class="col-lg-6 col-md-6 ">
+                        <div class="about-content mb-4">
 
                             <p class="text-justify">Bada Business is an Initiative by Dr. Vivek Bindra, who is a Motivational Speaker and a Renowned Business Coach. Bada Business provides Extensive Knowledge of the Different Business Strategies and Frameworks, which will Help
                                 Indian SMEs to Do Big Business or Become Bada Business. Bada Business allows the user to learn Everything About Entrepreneurship, which is the Worlds Most Affordable Entrepreneurship Program. Bada Business is a One Stop
@@ -553,21 +553,19 @@
         <section class="contact-area pb-100 pt-70 bg_light_blue">
             <div class="container">
                 <div class="section-title">
-                    <h2>Ready to Get Started?</h2>
+                    <h2>Contact Us</h2>
                     <p>Your email address will not be published. Required fields are marked *</p>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="contact-image"><img src="img/contact.png" alt="image"></div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="contact-form">
+
+                    <div class="col-lg-12 col-md-12">
+                        <div class="bg-transparent">
                             <form class="formsales" id="_idmyform1" name=" Badabusiness Leads" action="" accept-charset="utf-8" enctype="multipart/form-data">
                                 <input type="hidden" name="__vtrftk" value="sid:2777ac0be5be5fd6d446d23f6a6d4d22c0a93e52,1665487057">
                                 <input type="hidden" name="publicid" value="76a79ea12be03378c8ba3c7a92b4389f">
                                 <!--   <input name="cf_915"  value="https://www.badabusiness.com/ibc/" type="hidden"> -->
                                 <input type="hidden" name="urlencodeenable" value="1">
-                                <input type="hidden" name="name" value=" Bada Business  ">
+                                <input type="hidden" name="name" value=" Bada Business">
                                 <input name="cf_877" data-label="" value="Bada Business" type="hidden">
 
                                 <input type="hidden" name="cf_977" value="-">
@@ -605,7 +603,7 @@
                                 <!-- -**********************-->
                                 <!-- <input type="hidden" name="cf_997" data-label="" value="ibc"> -->
                                 <!-- Product Name-->
-                                <input type="hidden" name="cf_903" data-label="" value="https://www.badabusiness-trainings.com/">
+                                <input type="hidden" name="cf_903" data-label="" value="https://www.badabusiness-trainings.com">
                                 <!--url-->
                                 <input type="hidden" name="cf_905" data-label="" value="">
                                 <!-- Backend source-->
@@ -615,16 +613,13 @@
                                 <input name="cf_1038" data-label="" value="" type="hidden">
 
                                 <div class="row">
-                                    <div class="col-lg-12 col-md-6">
-                                        <div class="form-group"><input type="text" name="lastname" class="form-control" id="name" required="" placeholder="Your name"></div>
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group "><input type="text" name="lastname" class="form-control border-0" id="name" required="" placeholder="Your name"></div>
                                     </div>
-                                    <div class="col-lg-12 col-md-6">
-                                        <div class="form-group"><input type="email" name="email" class="form-control" id="email" required="" placeholder="Your email address"></div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12">
+                                    <div class="col-lg-6 col-md-6">
                                         <div class="input-group mb-3">
-                                            <div class="input-group-text">
-                                                <select name="cf_888" data-label="label:Country+Code" class="custom-select boder_lftradius ib_country_2" id="cc1">
+                                            <div class="input-group-text border-0">
+                                                <select name="cf_888" data-label="label:Country+Code" class="custom-select border-0 boder_lftradius ib_country_2" id="cc1">
                                         <option value="India+91">India +91</option>
                                         <option value=" Afghanistan +93"> Afghanistan +93</option>
                                         <option value=" Albania +355">Albania +355</option>
@@ -700,14 +695,18 @@
                                         <option value="Zimbabwe +263">Zimbabwe +263</option>
                                     </select>
                                             </div>
-                                            <input type="text" maxlength="16" required="required" name="mobile" id="ib_mobile" class="ib_mobile form-control boder_lft" aria-label="" aria-describedby="basic-addon1" require="">
+                                            <input type="text" maxlength="16" required="required" name="mobile" id="ib_mobile" class="ib_mobile form-control boder_lft border-0" aria-label="" aria-describedby="basic-addon1" require="">
                                         </div>
                                     </div>
-                                    <div class="col-lg-12 col-md-6">
-                                        <div class="form-group"><select class="checkout-select" name="cf_997"><option>IBC</option><option>LFP</option><option>Bounce Back</option></select></div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group"><input type="email" name="email" class="form-control border-0" id="email" required="" placeholder="Your email address"></div>
                                     </div>
 
-                                    <div class="col-lg-12 col-md-12"><input id="myBtn1" class="default-btn" type="submit" value="Enquiry Now"></div>
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group"><select class="checkout-select border-0" name="cf_997"><option>IBC</option><option>LFP</option><option>Bounce Back</option></select></div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 text-center manage-your-business-content"><input id="myBtn1" class="default-btn" type="submit" value="Enquiry Now"></div>
                                 </div>
                             </form>
                         </div>
@@ -765,7 +764,7 @@
         <div class="feedback-area undefined  ptb-100 bg-f9f9f9 ">
             <div class="container">
                 <div class="section-title">
-                    <h2>User’s Feedback About Us</h2>
+                    <h2>User's Feedback About Us</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra.</p>
                 </div>
                 <div class="owl-slider">
@@ -940,11 +939,11 @@
 
                             </ul>
                             <div class="events-share pb-4">
-                                <div class="share-info "><span>Share This Course <i class="fas fa-share-alt "></i></span>
+                                <div class="share-info ">
                                     <ul class="social-link ">
-                                        <li><a href="# " class="d-block "><i class="fab fa-facebook-f "></i></a></li>
-                                        <!-- <li><a href="# " class="d-block "><i class="fab fa-twitter "></i></a></li> -->
-                                        <li><a href="# " class="d-block "><i class=" fab fa-instagram "></i></a></li>
+                                        <li class="ml-4" style="margin-right:10px ;"><a href="# " class="d-block "><i class="fab fa-facebook-f "></i></a></li>
+                                        <li class="ml-4" style="margin-right:10px ;"><a href="# " class="d-block "><i class="fab fa-youtube-square "></i></a></li>
+                                        <!-- <li><a href="# " class="d-block "><i class=" fab fa-instagram "></i></a></li>   -->
                                         <li><a href="# " class="d-block "><i class=" fab fa-linkedin-in "></i></a></li>
                                     </ul>
                                 </div>
@@ -966,8 +965,8 @@
     </footer>
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js "></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js "></script>
+    <script src="js/jquery.min.js "></script>
+    <script src="js/bootstrap.bundle.min.js "></script>
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <script>
         $(document).ready(function() {
@@ -998,23 +997,24 @@
 
         }
     </script>
+
     <script>
-        $("#_idmyform1 ").on("submit ", function(e) {
+        $("#_idmyform1").on("submit", function(e) {
             var dataString = $(this).serialize();
 
             $('#myBtn1').prop('disabled', true);
-            $("#myBtn1 ").prop('value', 'Please wait...');
+            $("#myBtn1").prop('value', 'Please wait...');
 
             // alert(dataString); return false;
 
             $.ajax({
-                type: "POST ",
-                url: "includes/api.php ",
+                type: "POST",
+                url: "includes/api.php",
                 //headers: {  'Access-Control-Allow-Origin': '*' },
                 data: dataString,
                 success: function() {
 
-                    window.location.href = "thanks.php ";
+                    window.location.href = "thanks.php";
                 }
             });
 
@@ -1024,7 +1024,7 @@
 
 
     <script>
-        document.getElementById("myBtn1 ").addEventListener("click ", function() {
+        document.getElementById("myBtn1").addEventListener("click ", function() {
             var mobile = $("input[name=mobile] ").map(function() {
                 return $(this).val();
             }).get();
