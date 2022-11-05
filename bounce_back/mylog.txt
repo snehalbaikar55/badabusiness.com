@@ -1,0 +1,372 @@
+October 29, 2022, 11:41 am: Visitor ip=::1project_id=46project_name=Email=snehal.baikar@yahoo.co.inMobile=09833500643ISD=India+91lastname=snehal ShivkarResult=<html>
+<title>Thankyou</title>
+<head>
+    
+ <!-- Global site tag (gtag.js) - Google Ads: 10839381471 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10839381471"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "AW-10839381471");
+</script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219326004-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "UA-219326004-1");
+</script>
+                                                                                                                                                               <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,"script",
+"https://connect.facebook.net/en_US/fbevents.js");
+fbq("init", "1357156098084380");
+fbq("track", "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1357156098084380&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->    
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=“2.0”;
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,”script”,
+  “https://connect.facebook.net/en_US/fbevents.js”);
+  fbq(“init”, “694394311625710”);
+  fbq(“track”, “PageView”);
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=694394311625710&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+                                            <!-- Event snippet for Bada Business - IBC conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10839381471/dxB6CMHZlJQDEN-rz7Ao'});
+</script>
+
+	<link rel="icon" href="img/bada-business-favicon.png" sizes="16x16" alt=" bada business favicon">
+
+</head>
+<body>
+<!-- Clickcease Code --> 
+<script type="text/javascript">
+var script = document.createElement("script");
+script.async = true; 
+script.type = "text/javascript";
+var target = "https://www.clickcease.com/monitor/stat.js";
+script.src = target;
+var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+<a href="https://www.clickcease.com" rel="nofollow"><img src="https://monitor.clickcease.com/stats/stats.aspx" alt="ClickCease"/></a>
+</noscript>
+
+<!-- Thanks --> 
+<section  style="top:50px;">
+<span class="section-link" >
+</span>
+<span class="head text-capitalize"></span> 
+<div class="row mb-3">
+<img src="assets/img/bada-business-thank-you.jpg" class="img-responsive" style="width: -webkit-fill-available; "alt="thanks">
+<script>setTimeout(function(){window.location.href='index.php'},10000);</script>
+    
+</section> 
+
+
+</body>
+</html><br>
+October 29, 2022, 11:46 am: Visitor ip=::1project_id=46project_name=Email=snehal.baikar@yahoo.co.inMobile=09833500643ISD=India+91lastname=snehal ShivkarResult=<html>
+<title>Thankyou</title>
+<head>
+    
+ <!-- Global site tag (gtag.js) - Google Ads: 10839381471 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10839381471"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "AW-10839381471");
+</script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219326004-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "UA-219326004-1");
+</script>
+                                                                                                                                                               <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,"script",
+"https://connect.facebook.net/en_US/fbevents.js");
+fbq("init", "1357156098084380");
+fbq("track", "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1357156098084380&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->    
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=“2.0”;
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,”script”,
+  “https://connect.facebook.net/en_US/fbevents.js”);
+  fbq(“init”, “694394311625710”);
+  fbq(“track”, “PageView”);
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=694394311625710&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+                                            <!-- Event snippet for Bada Business - IBC conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10839381471/dxB6CMHZlJQDEN-rz7Ao'});
+</script>
+
+	<link rel="icon" href="img/bada-business-favicon.png" sizes="16x16" alt=" bada business favicon">
+
+</head>
+<body>
+<!-- Clickcease Code --> 
+<script type="text/javascript">
+var script = document.createElement("script");
+script.async = true; 
+script.type = "text/javascript";
+var target = "https://www.clickcease.com/monitor/stat.js";
+script.src = target;
+var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+<a href="https://www.clickcease.com" rel="nofollow"><img src="https://monitor.clickcease.com/stats/stats.aspx" alt="ClickCease"/></a>
+</noscript>
+
+<!-- Thanks --> 
+<section  style="top:50px;">
+<span class="section-link" >
+</span>
+<span class="head text-capitalize"></span> 
+<div class="row mb-3">
+<img src="assets/img/bada-business-thank-you.jpg" class="img-responsive" style="width: -webkit-fill-available; "alt="thanks">
+<script>setTimeout(function(){window.location.href='index.php'},10000);</script>
+    
+</section> 
+
+
+</body>
+</html><br>
+October 29, 2022, 11:58 am: Visitor ip=::1project_id=46project_name=Email=snehal.baikar@yahoo.co.inMobile=09833500643ISD=India+91lastname=snehal ShivkarResult=<html>
+<title>Thankyou</title>
+<head>
+    
+ <!-- Global site tag (gtag.js) - Google Ads: 10839381471 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10839381471"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "AW-10839381471");
+</script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219326004-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "UA-219326004-1");
+</script>
+                                                                                                                                                               <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,"script",
+"https://connect.facebook.net/en_US/fbevents.js");
+fbq("init", "1357156098084380");
+fbq("track", "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1357156098084380&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->    
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=“2.0”;
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,”script”,
+  “https://connect.facebook.net/en_US/fbevents.js”);
+  fbq(“init”, “694394311625710”);
+  fbq(“track”, “PageView”);
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=694394311625710&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+                                            <!-- Event snippet for Bada Business - IBC conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10839381471/dxB6CMHZlJQDEN-rz7Ao'});
+</script>
+
+	<link rel="icon" href="img/bada-business-favicon.png" sizes="16x16" alt=" bada business favicon">
+
+</head>
+<body>
+<!-- Clickcease Code --> 
+<script type="text/javascript">
+var script = document.createElement("script");
+script.async = true; 
+script.type = "text/javascript";
+var target = "https://www.clickcease.com/monitor/stat.js";
+script.src = target;
+var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+<a href="https://www.clickcease.com" rel="nofollow"><img src="https://monitor.clickcease.com/stats/stats.aspx" alt="ClickCease"/></a>
+</noscript>
+
+<!-- Thanks --> 
+<section  style="top:50px;">
+<span class="section-link" >
+</span>
+<span class="head text-capitalize"></span> 
+<div class="row mb-3">
+<img src="assets/img/bada-business-thank-you.jpg" class="img-responsive" style="width: -webkit-fill-available; "alt="thanks">
+<script>setTimeout(function(){window.location.href='index.php'},10000);</script>
+    
+</section> 
+
+
+</body>
+</html><br>
+October 29, 2022, 12:01 pm: Visitor ip=::1project_id=46project_name=Email=snehal.baikar@yahoo.co.inMobile=09833500643ISD=India+91lastname=snehal ShivkarResult=<html>
+<title>Thankyou</title>
+<head>
+    
+ <!-- Global site tag (gtag.js) - Google Ads: 10839381471 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10839381471"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "AW-10839381471");
+</script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219326004-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "UA-219326004-1");
+</script>
+                                                                                                                                                               <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,"script",
+"https://connect.facebook.net/en_US/fbevents.js");
+fbq("init", "1357156098084380");
+fbq("track", "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1357156098084380&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->    
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=“2.0”;
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,”script”,
+  “https://connect.facebook.net/en_US/fbevents.js”);
+  fbq(“init”, “694394311625710”);
+  fbq(“track”, “PageView”);
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=694394311625710&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+                                            <!-- Event snippet for Bada Business - IBC conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10839381471/dxB6CMHZlJQDEN-rz7Ao'});
+</script>
+
+	<link rel="icon" href="img/bada-business-favicon.png" sizes="16x16" alt=" bada business favicon">
+
+</head>
+<body>
+<!-- Clickcease Code --> 
+<script type="text/javascript">
+var script = document.createElement("script");
+script.async = true; 
+script.type = "text/javascript";
+var target = "https://www.clickcease.com/monitor/stat.js";
+script.src = target;
+var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+<a href="https://www.clickcease.com" rel="nofollow"><img src="https://monitor.clickcease.com/stats/stats.aspx" alt="ClickCease"/></a>
+</noscript>
+
+<!-- Thanks --> 
+<section  style="top:50px;">
+<span class="section-link" >
+</span>
+<span class="head text-capitalize"></span> 
+<div class="row mb-3">
+<img src="assets/img/bada-business-thank-you.jpg" class="img-responsive" style="width: -webkit-fill-available; "alt="thanks">
+<script>setTimeout(function(){window.location.href='index.php'},10000);</script>
+    
+</section> 
+
+
+</body>
+</html><br>
